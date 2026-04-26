@@ -11,3 +11,7 @@ env/
 
 # VSCode
 .vscode/
+
+# Caveman
+.cursorrules
+.gemini/
